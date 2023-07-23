@@ -1,7 +1,0 @@
-voclabs:~/environment/DevOps_Microservices/project-ml-microservice-kubernetes (master) $ ./run_kubernetes.sh 
-pod/microproject created
-NAME            READY   STATUS              RESTARTS   AGE
-microproject    0/1     ContainerCreating   0          0s
-microproject4   1/1     Running             0          23m
-Forwarding from 127.0.0.1:8000 -> 80
-Forwarding from [::1]:8000 -> 80

@@ -1,4 +1,6 @@
 <include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/vanvietngo/project-ml-microservice-kubernetes/tree/circleci-project-setup.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/vanvietngo/project-ml-microservice-kubernetes/tree/circleci-project-setup)
+
 
 ## Project Overview
 
